@@ -17,12 +17,14 @@
 👯
 นิสัยส่วนตัวมีความอ่อนน้อม ขี้เกรงใจ มีรอยยิ้มให้ทุกคน ไม่มองคนในแง่ร้ายก่อนทำความรู้จัก เข้ากับคนง่าย.
 
-💬 ช่องทางการติดต่อ<br>
-⭐ [Facebook](https://www.facebook.com/not021)<br>
-⭐ [line](https://line.me/ti/p/1Fsiw8Ct5k)<br>
 
 <!--
 **nosson24/nosson24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+**💬 ช่องทางการติดต่อ<br>
+**⭐ [Facebook](https://www.facebook.com/not021)<br>
+**⭐ [line](https://line.me/ti/p/1Fsiw8Ct5k)<br>
 
 Here are some ideas to get you started:
 

@@ -8,8 +8,8 @@
 <!-- **กำลังมองหางานในตำแหน่ง Flutter Developer**  -->
 <!-- เพื่อสั่งสมประการณ์ในการทำงาน -->
 
- - มีประสบการณ์ 1 ปีในการเขียน Mobile Application.
- - เคยใช้งาน API with Firebase.
+ - มีประสบการณ์ 1 ปีในตำแหน่ง Flutter Developer
+ - เคยใช้งาน API with Firebase
  - การใช้งานโปรแกรม Sourcetree 
  - การใช้งานโปรแกรม Postman 
  - การใช้งานโปรแกรม i18n Manager ในการทำฟังก์ชันเปลี่ยนภาษา
